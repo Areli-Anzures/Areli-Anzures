@@ -1,20 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Areli+Anzures+💞️)](https://git.io/typing-svg)
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fholatelcel.com%2Flifeandstyle%2Fhospital-voluntario-koalas-australia%2F&psig=AOvVaw0h7n1qfUsQrRUPiFTLOpMa&ust=1651681743911000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNiNgZDgw_cCFQAAAAAdAAAAABAJ" alt="">
+
 About me...
 
-public class Person{
-  public String name;
-  public int age;
-  public String nationality;
-  public String career;
-  public String likes;
-  
-  public Person(String name, int age, String nationality, String career, String likes){
-    this.name = "Areli Anzures";
-    this.age = 25;
-    this.nationality = "Mexican";
-    this.career = "Electronic Engineer 🌱";
-    this.likes = "koalas & gummies 💞️";
-  }
-  
-} 
